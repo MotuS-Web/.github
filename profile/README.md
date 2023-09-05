@@ -76,7 +76,7 @@
 ### 🧑🏻‍💻 BackEnd Team
 
 #### Environment
-``InteliJ`` ``Postman`` ``Git Action`` ``Git`` ``Gradle`` ``Raspberry FI 4B``
+``InteliJ`` ``Postman`` ``Git Action`` ``Git`` ``Gradle`` ``Raspberry Pi 4B``
 
 #### Development
 ``Spring-Boot`` ``Java`` ``NCP(Naver Cloud Platform)`` ``MariaDB``
