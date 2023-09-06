@@ -103,7 +103,8 @@
 ## 🧾 System Architecture
 
 <div align="center">
-<img alt="image" width="1000" src="https://github.com/ReHab-Web/.github/assets/53892427/d4444956-312b-43c9-89fc-8ed3ceee23d6"/></div>
+<img alt="image" width="1000" src="https://github.com/MotuS-Web/.github/assets/80760160/3107fe94-7fe3-4f0f-b299-a8fb83c6561e"/></div>
+
 
 ## 🧾 Fuction Architecture
 
