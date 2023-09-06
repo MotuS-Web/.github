@@ -20,7 +20,7 @@
 |  [@Dong Heon Lee](https://github.com/Sirius506775)  | [@JuYoung Park](https://github.com/jyp-on) |  [@osohyun0224](https://github.com/osohyun0224)   |  [@PortalCube](https://github.com/PortalCube)     |[@InSung Bahk](https://github.com/insung3511) |
 
 
-## 💡 Re:Hab 주요 기능 소개
+## 💡 MotuS 주요 기능 소개
 
 ### 1️⃣ **운동 강의 학습**
  
@@ -60,7 +60,7 @@
 <img alt="image" width="600" src="https://github.com/ReHab-Web/.github/assets/53892427/69b55330-5412-4ee2-8549-6333d15b7d1b"/>
 </div>
 
-## 📚 Re:Hab Tech Stacks
+## 📚 MotuS Tech Stacks
 
 ### 개발 기간⏳
 #### 2023. 07.19 ~ 2023. 09. 07 
