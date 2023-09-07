@@ -127,3 +127,8 @@
 
 <div align="center">
 <img alt="image" width="1000" src="https://github.com/ReHab-Web/.github/assets/53892427/72a3b816-bc8d-409e-afb9-0099e28968fd"/></div>
+
+## 🧾 Dev Docs.
+- [MotuS 기능명세서](https://www.notion.so/f60f87f72b4849bd985f0d79dabf6802?v=a37f31af30f4485d8b69343554ac41b4)
+- [MotuS API 명세서](https://www.notion.so/API-0994cf4364874db398428df3cf1205d0)
+- [Developer Kanban board](https://github.com/orgs/MotuS-Web/projects/1)
