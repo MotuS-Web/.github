@@ -2,10 +2,10 @@
 
 ## 🫴🏻 Project Introduction
 
-<div align="left">
+<div align="center">
 <p> 이 프로젝트는 비대면 운동 학습 플랫폼 개발을 목적으로 합니다. 
 <br/>
-<p>관리자는 특정 운동에 대한 가이드 영상을 프로그램으로 등록할 수 있으며, 사용자는 등록된 운동 프로그램을 학습하는 과정에서, AI의 유사도 측정을 통해 개인의 운동 수행 정확도를 확인할 수 있습니다.</p>
+<p>관리자는 특정 운동에 대한 가이드 영상을 프로그램으로 등록할 수 있으며, 사용자는 등록된 운동 프로그램을 학습하는 과정에서, <br/> AI의 유사도 측정을 통해 개인의 운동 수행 정확도를 확인할 수 있습니다.</p>
 <p>특정 도메인에 국한되지 않고, 운동 수행 영상이라면 누구든지 가이드를 등록 및 학습할 수 있다는 것이 프로젝트의 핵심 가치입니다.</p></div>
  <div align="center">
 <h3> 비대면 운동 학습 플랫폼, MotuS 입니다. 🌿 </h3>
@@ -17,6 +17,8 @@
 | :---: | :---: | :---: | :---: | :---: |
 | <img width="130px" src="https://avatars.githubusercontent.com/u/80760160?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/52206904?v=4"/> |  <img width="130px" src="https://avatars.githubusercontent.com/u/53892427?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/35104213?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/17959335?v=4" /> |
 | 이동헌 | 박주영 | 오소현 | 김경재 | 박인성 |
+|한림대학교|한림대학교|한림대학교|한림대학교|한림대학교|
+|빅데이터전공 4학년|콘텐츠IT전공 3학년|빅데이터전공 4학년|빅데이터전공 2학년|AI의료융합전공 2학년|
 |  [@Dong Heon Lee](https://github.com/Sirius506775)  | [@JuYoung Park](https://github.com/jyp-on) |  [@osohyun0224](https://github.com/osohyun0224)   |  [@PortalCube](https://github.com/PortalCube)     |[@InSung Bahk](https://github.com/insung3511) |
 
 
@@ -60,10 +62,18 @@
 <img alt="image" width="600" src="https://github.com/ReHab-Web/.github/assets/53892427/69b55330-5412-4ee2-8549-6333d15b7d1b"/>
 </div>
 
+<br/><br/>
+### 3️⃣ **수강 내역 확인**
+- 사용자는 본인이 수강한 강의를 수강 내역에서 확인할 수 있음.
+
+<div align="center">
+<img alt="image" width="600" src="https://github.com/MotuS-Web/.github/assets/53892427/a6d3edc2-df8e-4db1-a40e-3f41a82966f2"/>
+</div>
+
 ## 📚 MotuS Tech Stacks
 
 ### 개발 기간⏳
-#### 2023. 07.19 ~ 2023. 09. 07 
+#### 2023. 07. 19 ~ 2023. 09. 07 
 
 ### 🫱🏻‍🫲🏻🧑🏻‍💻 Development Collaboration Tools
 ``Github`` ``Slack`` ``Notion``
