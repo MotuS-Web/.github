@@ -22,58 +22,60 @@
 |  [@Dong Heon Lee](https://github.com/Sirius506775)  | [@JuYoung Park](https://github.com/jyp-on) |  [@osohyun0224](https://github.com/osohyun0224)   |  [@PortalCube](https://github.com/PortalCube)     |[@InSung Bahk](https://github.com/insung3511) |
 
 
-## 💡 MotuS 주요 기능 소개
+# 💡 MotuS 주요 기능 소개
 
-### 1️⃣ **운동 강의 학습**
- 
-- 강의 수강 : 자신이 원하는 운동 강의를 선택 후 수강하며 운동을 진행.
-- AI 유사도 판정 : 동작에 대해 올바른 자세로 운동을 진행했는지 가이드영상를 바탕으로 동작 유사도를 판정.
-- 높은 유사도 유도: 높은 유사도를 받을 때까지 사용자의 반복적인 수강을 도와 효과적인 운동을 도움.
+## 1️⃣ **운동 영상 조회**
 
-
-### 🤔 Case 1: 올바른 자세로 수강 시 
-
-<div align="center">
-<img alt="image" width="600" src="https://github.com/ReHab-Web/.github/assets/53892427/b52f2a22-7d6e-4cf5-b799-901171b3473b"/></div>
-
-- 😀 높은 정확도로 판정됨
-
-<div align="center">
-<img alt="image" width="600" src="https://github.com/ReHab-Web/.github/assets/53892427/39938578-66da-4ace-bdd0-b3155e2646de"/></div>
-
-### 🤔 Case 2: 나쁜 자세로 수강 시
-
-<div align="center">
-<img alt="image" width="600" src="https://github.com/ReHab-Web/.github/assets/53892427/605d4741-2943-4307-9a3d-22b56af3ec5c"/></div>
-
-- 😥 낮은 정확도로 판정됨
+### 1. 영상 목록
+- 현재 서비스에 등록되어 있는 영상들을 영상의 제목, 설명, 썸네일 이미지, 태그와 함께 표시합니다.
   
-<div align="center">
-<img alt="image" width="600" src="https://github.com/ReHab-Web/.github/assets/53892427/047e1a2a-ee6c-4b79-aeff-60f6869d3d88"/></div>
+### 2. 영상 미리보기
+- 사용자가 영상을 선택하면 영상의 미리보기와 제목, 설명, 태그가 표시되고 수강 페이지로 이동하는 버튼을 표시합니다.
+
+![모투스_운동상세](https://github.com/MotuS-Web/.github/assets/53892427/a85bef24-d6f6-4637-b93e-3b6aff5bd099)
 
 
-<br/><br/>
-### 2️⃣ **운동 강의 등록**
+## 2️⃣ **운동 검색**
 
-- 관리자(admin)은 사용자들이 수강할 운동 프로그램을 직접 생성할 수 있음.
-- 가이드 영상과 프로그램 제목, 설명, 태그를 설정해 프로그램을 등록함.
+### 1. 영상 제목과 태그로 검색
+- 영상의 제목과 태그로 검색합니다. 태그로는 특정한 자세의 영상이나, 부위를 선택할 수 있습니다.
+![모투스_메인_필터](https://github.com/MotuS-Web/.github/assets/53892427/3e3139bc-f428-4cc1-9afb-70fa957ffb4b)
+
+
+## 3️⃣ **운동 등록**
+
+### 1. 가이드 영상 등록
+- 사용자의 컴퓨터에서 영상을 선택하여 서버로 업로드합니다.
+- 업로드한 영상의 스켈레톤 데이터를 AI 서버에서 잘 받아오는 지 확인할 수 있습니다.
+
+### 2. 상세 정보 입력
+- 영상의 제목과 설명, 그리고 카테고리 및 자세를 입력합니다.
+
+![모투스_운동등록](https://github.com/MotuS-Web/.github/assets/53892427/326c7c74-0a24-45f1-a850-22e1f99e0ae0)
+
+## 4️⃣ **운동 수강**
+### 1. 가이드 영상 재생
+- 사용자가 수강할 영상을 재생해서 보여줍니다. 
+- 수강할 때 사용자가 운동을 수행하면서 따라해볼 수 있도록 한번 더 재생됩니다.
+- 사용자가 원한다면 측정하기 전에 계속해서 돌려볼 수 있습니다.
+
+### 2. 사용자 화면 녹화
+- 측정을 시작하면 영상이 재생되는 동안 사용자의 화면을 녹화합니다.
+- 영상이 종료되면 녹화를 종료하고 서버로 전송됩니다.
+
+![모투스_운동수강](https://github.com/MotuS-Web/.github/assets/53892427/aa9d421a-a660-4ec0-aad7-ee7d73e559ca)
+
+### 3. 수행유사도 판정
+- 사용자의 영상을 AI 서버에서 분석하고, 원본 영상과 얼마나 일치하는지 유사도를 산출하여 표시해줍니다.
+- 유사도를 받으면 퍼센트에 따라 Perfect, Great, Good, Bad로 수행 결과를 사용자에게 보여줍니다.
+
+![모투스_운동결과](https://github.com/MotuS-Web/.github/assets/53892427/3cad1f39-4324-465e-9506-3de09fb3a57e)
   
-<div align="center">
-<img alt="image" width="600" src="https://github.com/ReHab-Web/.github/assets/53892427/69b55330-5412-4ee2-8549-6333d15b7d1b"/>
-</div>
-
-<br/><br/>
-### 3️⃣ **수강 내역 확인**
-- 사용자는 본인이 수강한 강의를 수강 내역에서 확인할 수 있음.
-
-<div align="center">
-<img alt="image" width="600" src="https://github.com/MotuS-Web/.github/assets/53892427/a6d3edc2-df8e-4db1-a40e-3f41a82966f2"/>
-</div>
 
 ## 📚 MotuS Tech Stacks
 
 ### 개발 기간⏳
-#### 2023. 07. 19 ~ 2023. 09. 07 
+#### 2023. 07. 19 ~ 2023. 10. 20 
 
 ### 🫱🏻‍🫲🏻🧑🏻‍💻 Development Collaboration Tools
 ``Github`` ``Slack`` ``Notion``
