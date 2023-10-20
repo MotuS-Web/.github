@@ -27,6 +27,10 @@
 
 # 💡 MotuS 주요 기능 소개
 
+## 📹 MotuS 플랫폼 사용 설명 영상 Youtube 
+- [비대면 운동 학습 플랫폼, MotuS 오픈소스 사용 방법 영상 KOR ](https://www.youtube.com/watch?v=a8xAxw9wZ10&t=21s)
+- [Non-face-to-face exercise learning platform, MotuS open source video ENG](https://www.youtube.com/watch?v=zSLehEpCbyw&t=15s)
+  
 ## 1️⃣ **운동 영상 조회**
 
 ### 1. 영상 목록
@@ -77,9 +81,6 @@
 
 ## 📚 MotuS Tech Stacks
 
-### 개발 기간⏳
-#### 2023. 07. 19 ~ 2023. 10. 20 
-
 | 🫱🏻‍🫲🏻 H-FIVE  Team | 📚 Tech Stacks  |
 |:---:|:---:|
 | Collaboration Tools|``Github`` ``Slack`` ``Notion``|
@@ -118,12 +119,12 @@
 
 ## 🧾 Fuction Architecture
 
-### 👤 Client Fuction Architecture
+### 👤 Do Exercise Fuction Architecture
 
 <div align="center">
 <img alt="image" width="1000" src="https://github.com/ReHab-Web/.github/assets/53892427/8e09d826-0cf0-4ac7-bdc5-ae4ddb2444e8"/></div>
 
-### 👤🔧 Admin Fuction Architecture
+### 👤🔧 Register Video Fuction Architecture
 
 <div align="center">
 <img alt="image" width="1000" src="https://github.com/ReHab-Web/.github/assets/53892427/72a3b816-bc8d-409e-afb9-0099e28968fd"/></div>
