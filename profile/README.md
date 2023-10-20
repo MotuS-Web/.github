@@ -1,18 +1,18 @@
-## [2023 공개SW 개발자대회 본선 진행작 -ing] 비대면 운동 학습 플랫폼, "MotuS"
+## [2023 공개SW 개발자대회 본선 진행작] 비대면 운동 학습 플랫폼, "MotuS"
 
 ## 🫴🏻 Project Introduction
 
 <div align="center">
 <p> 이 프로젝트는 비대면 운동 학습 플랫폼 개발을 목적으로 합니다. 
 <br/>
-<p>관리자는 특정 운동에 대한 가이드 영상을 프로그램으로 등록할 수 있으며, 사용자는 등록된 운동 프로그램을 학습하는 과정에서, <br/> AI의 유사도 측정을 통해 개인의 운동 수행 정확도를 확인할 수 있습니다.</p>
+<p>누구나 특정 운동에 대한 가이드 영상을 프로그램으로 등록할 수 있으며, 등록된 운동 프로그램을 학습할 수 있습니다. <br/> AI의 유사도 측정을 통해 수행자의 운동 수행 정확도를 확인할 수 있습니다.</p>
 <p>특정 도메인에 국한되지 않고, 운동 수행 영상이라면 누구든지 가이드를 등록 및 학습할 수 있다는 것이 프로젝트의 핵심 가치입니다.</p></div>
  <div align="center">
 <h3> 비대면 운동 학습 플랫폼, MotuS 입니다. 🌿 </h3>
 </div>
 
 ## 🏃🏻 MotuS Domain Address
-https://motus.website/
+# https://motus.website/
 
 ## 🫱🏻‍🫲🏻 H-Five Team ✨
 
@@ -80,42 +80,37 @@ https://motus.website/
 ### 개발 기간⏳
 #### 2023. 07. 19 ~ 2023. 10. 20 
 
-### 🫱🏻‍🫲🏻🧑🏻‍💻 Development Collaboration Tools
-``Github`` ``Slack`` ``Notion``
+| 🫱🏻‍🫲🏻 H-FIVE  Team | 📚 Tech Stacks  |
+|:---:|:---:|
+| Collaboration Tools|``Github`` ``Slack`` ``Notion``|
 
-### 🧑🏻‍💻 FrontEnd Team
+## [FrontEnd Repo](https://github.com/MotuS-Web/MotuS-FrontEnd)
+|🧑🏻‍💻  FrontEnd  Team | 📚 Tech Stacks  |
+|:---:|:---:|
+|Dev Packages |``React`` ``Redux`` ``Axios`` |
+|Development Support Tools  |``ESLint`` ``Prettier``  ``Vercel`` ``Vite``|
+|License|[MotuS Frontend License](https://github.com/MotuS-Web/MotuS-FrontEnd/blob/master/LICENSE) |
 
-#### Dev Packages: 
-``React`` ``Redux`` ``Axios``
+## [BackEnd Repo](https://github.com/MotuS-Web/MotuS-Backend)
 
-#### Development Support Tools 
-``ESLint`` ``Prettier``  ``Vercel`` ``Vite``
+|🧑🏻‍💻  BackEnd  Team | 📚 Tech Stacks  |
+|:---:|:---:|
+| Environment |``InteliJ`` ``Postman`` ``Git Action`` ``Git`` ``Gradle`` ``Raspberry Pi 4B`` |
+| Development  |``Spring-Boot`` ``Java`` ``NCP(Naver Cloud Platform)`` ``MariaDB``|
+|Dependencies| ``QueryDsl`` ``Spring-Data-JPA`` ``Spring Security`` ``JWT(Json Web Token)`` ``Lombok`` ``Validation`` ``Gson``|
+|License|[MotuS Backend License](https://github.com/MotuS-Web/MotuS-Backend/blob/main/LICENSE) |
 
-### 🧑🏻‍💻 BackEnd Team
+## [AI Repo](https://github.com/MotuS-Web/MotuS-ML)
 
-#### Environment
-``InteliJ`` ``Postman`` ``Git Action`` ``Git`` ``Gradle`` ``Raspberry Pi 4B``
+|🧑🏻‍💻  AI Team | 📚 Tech Stacks  |
+|:---:|:---:|
+| Frameworks Server | ``FastAPI`` , ``unvicron``, ``mysql`` |
+| Frameworks AI  |``Pytorch``, ``Numpy``|
+| Frameworks Pre-processing |``Scikit-learn``, ``Scikit-video``|
+| Environment |``Macbook Pro M1`` ``GTX 2070 Super`` ``Visual Studio Code`` ``Postman``|
+|License|[MotuS AI License](https://github.com/MotuS-Web/MotuS-ML/blob/main/LICENSE) |
 
-#### Development
-``Spring-Boot`` ``Java`` ``NCP(Naver Cloud Platform)`` ``MariaDB``
-  
-#### Dependencies
-``QueryDsl`` ``Spring-Data-JPA`` ``Spring Security`` ``JWT(Json Web Token)`` ``Lombok`` ``Validation`` ``Gson``
-
-### 🧑🏻‍💻 AI Team
-
-#### Languages
-``Python``
-  
-#### Frameworks
-- Server: ``FastAPI`` , ``unvicron``, ``mysql``
-- AI : ``Pytorch``, ``Numpy``
-- Pre-processing: ``Scikit-learn``, ``Scikit-video``
-  
-#### Environment
-``Macbook Pro M1`` ``GTX 2070 Super`` ``Visual Studio Code`` ``Postman``
-  
-## 🧾 System Architecture
+## 🧾 MotuS System Architecture
 
 <div align="center">
 <img alt="image" width="1000" src="https://github.com/MotuS-Web/.github/assets/80760160/3107fe94-7fe3-4f0f-b299-a8fb83c6561e"/></div>
@@ -134,6 +129,6 @@ https://motus.website/
 <img alt="image" width="1000" src="https://github.com/ReHab-Web/.github/assets/53892427/72a3b816-bc8d-409e-afb9-0099e28968fd"/></div>
 
 ## 🧾 Dev Docs.
-- [MotuS 기능명세서](https://www.notion.so/f60f87f72b4849bd985f0d79dabf6802?v=a37f31af30f4485d8b69343554ac41b4)
-- [MotuS API 명세서](https://www.notion.so/API-0994cf4364874db398428df3cf1205d0)
+- [MotuS 기능명세서](https://www.notion.so/opensw-motus/f60f87f72b4849bd985f0d79dabf6802?v=a22a6006cb654ab385a7003be619a86f)
+- [MotuS API 명세서](https://www.notion.so/opensw-motus/API-0994cf4364874db398428df3cf1205d0)
 - [Developer Kanban board](https://github.com/orgs/MotuS-Web/projects/1)
