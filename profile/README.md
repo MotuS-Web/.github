@@ -1,5 +1,7 @@
 ## [2023 공개SW 개발자대회 본선 진행작] 비대면 운동 학습 플랫폼, "MotuS"
-#
+
+### [Check README.md in English]()
+
 ## 🫴🏻 Project Introduction
 
 <div align="center">
