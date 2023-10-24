@@ -1,5 +1,11 @@
+<div align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MotuS-Web"/>    
+</div>
+
 ## [2023 공개SW 개발자대회 본선 진행작] 비대면 운동 학습 플랫폼, "MotuS"
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MotuS-Web)](https://hits.seeyoufarm.com)             
+
+
+
 ### [Check README.md in English](https://github.com/MotuS-Web/.github/blob/main/profile/README-ENG.md)
 
 ## 🫴🏻 Project Introduction
