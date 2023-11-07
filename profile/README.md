@@ -2,7 +2,7 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MotuS-Web"/>    
 </div>
 
-## [2023 공개SW 개발자대회 본선 진행작] 비대면 운동 학습 플랫폼, "MotuS"
+## [2023 공개SW 개발자대회 본선 진행작] 행동 유사도 측정을 위한 솔루션, "MotuS"
 
 
 
@@ -11,12 +11,12 @@
 ## 🫴🏻 Project Introduction
 
 <div align="center">
-<p> 이 프로젝트는 비대면 운동 학습 플랫폼 개발을 목적으로 합니다. 
+<p> 이 프로젝트는 행동 유사도 측정을 위한 솔루션 개발을 목적으로 합니다. 
 <br/>
 <p>누구나 특정 운동에 대한 가이드 영상을 프로그램으로 등록할 수 있으며, 등록된 운동 프로그램을 학습할 수 있습니다. <br/> AI의 유사도 측정을 통해 수행자의 운동 수행 정확도를 확인할 수 있습니다.</p>
 <p>특정 도메인에 국한되지 않고, 운동 수행 영상이라면 누구든지 가이드를 등록 및 학습할 수 있다는 것이 프로젝트의 핵심 가치입니다.</p></div>
  <div align="center">
-<h3> 비대면 운동 학습 플랫폼, MotuS 입니다. 🌿 </h3>
+<h3> 행동 유사도 측정을 위한 솔루션, MotuS 입니다. 🌿 </h3>
 </div>
 
 ## 🏃🏻 MotuS Domain Address
@@ -36,7 +36,7 @@
 # 💡 MotuS 주요 기능 소개
 
 ## 📹 MotuS 플랫폼 사용 설명 영상 Youtube 
-- [비대면 운동 학습 플랫폼, MotuS 오픈소스 사용 방법 영상 KOR ](https://www.youtube.com/watch?v=a8xAxw9wZ10&t=21s)
+- [행동 유사도 측정을 위한 솔루션, MotuS 오픈소스 사용 방법 영상 KOR ](https://www.youtube.com/watch?v=a8xAxw9wZ10&t=21s)
 - [Non-face-to-face exercise learning platform, MotuS open source video ENG](https://www.youtube.com/watch?v=zSLehEpCbyw&t=15s)
   
 ## 1️⃣ **운동 영상 조회**
