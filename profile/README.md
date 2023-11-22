@@ -2,7 +2,7 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MotuS-Web"/>    
 </div>
 
-## [2023 공개SW 개발자대회 본선 진출출작] 행동 유사도 측정을 위한 솔루션, "MotuS"
+## [2023 공개SW 개발자대회 우수작 선정] 행동 유사도 측정을 위한 솔루션, "MotuS"
 
 
 
